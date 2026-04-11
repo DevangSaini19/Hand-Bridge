@@ -379,6 +379,4 @@ If this project helped you, please give it a ⭐!
 
 ---
 
-**Built with ❤️ for accessibility and inclusion**
-
 *Breaking barriers, building bridges* 🌉✨
