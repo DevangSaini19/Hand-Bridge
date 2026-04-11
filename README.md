@@ -51,7 +51,7 @@ npm install
 
 # Start development server
 npm run dev
-```
+
 
 Navigate to `http://localhost:5173/translate` and start translating!
 
