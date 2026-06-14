@@ -227,11 +227,11 @@ No environment variables needed! All processing is client-side.
 
 ##  Privacy & Security
 
-- ✅ **All processing client-side** (no server uploads)
-- ✅ **No data storage** without explicit consent
-- ✅ **Camera can be disabled** anytime
-- ✅ **No tracking or analytics** (by default)
-- ✅ **Open source** and transparent
+- [x] **All processing client-side** (no server uploads)
+- [x] **No data storage** without explicit consent
+- [x] **Camera can be disabled** anytime
+- [x] **No tracking or analytics** (by default)
+- [x] **Open source** and transparent
 
 ##  Deployment
 
@@ -278,14 +278,14 @@ Please use GitHub Issues with:
 ##  Roadmap
 
 ### Version 2.0 (Current) ✨
-- ✅ Real-time hand detection
-- ✅ **60+ gesture recognition** (was 20+)
-- ✅ **Full A-Z alphabet support**
-- ✅ **11 language support** (was 6)
-- ✅ **Enhanced accuracy** (84% from 72%)
-- ✅ **Common gestures** (Bye, Call Me, Peace, etc.)
-- ✅ Performance metrics
-- ✅ Real-time subtitles with export
+- [x] Real-time hand detection
+- [x] **60+ gesture recognition** (was 20+)
+- [x] **Full A-Z alphabet support**
+- [x] **11 language support** (was 6)
+- [x] **Enhanced accuracy** (84% from 72%)
+- [x] **Common gestures** (Bye, Call Me, Peace, etc.)
+- [x] Performance metrics
+- [x] Real-time subtitles with export
 
 ### Version 2.1 (Planned)
 - [ ] Motion-based gestures (J, Z with movement)
@@ -332,15 +332,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Recent Updates (Version 2.0)
 
 ### Major Enhancements
-- ✅ Added **full A-Z alphabet recognition** (26 letters)
-- ✅ Added **8 common gestures** from ASL/ISL repository
-- ✅ Improved **number recognition** (0-10)
-- ✅ Enhanced **recognition algorithm** with priority-based system
-- ✅ Increased **overall accuracy** from 72% to 84%
-- ✅ Added **11 language support** (was 6)
-- ✅ Fixed **all duplicate condition bugs**
-- ✅ Created **comprehensive documentation** (4 new guides)
-- ✅ Maintained **zero frontend changes** (backend only)
+- [x] Added **full A-Z alphabet recognition** (26 letters)
+- [x] Added **8 common gestures** from ASL/ISL repository
+- [x] Improved **number recognition** (0-10)
+- [x] Enhanced **recognition algorithm** with priority-based system
+- [x] Increased **overall accuracy** from 72% to 84%
+- [x] Added **11 language support** (was 6)
+- [x] Fixed **all duplicate condition bugs**
+- [x] Created **comprehensive documentation** (4 new guides)
+- [x] Maintained **zero frontend changes** (backend only)
 
 ### New Gestures
 **Alphabet**: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
