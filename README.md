@@ -104,7 +104,7 @@ Navigate to `http://localhost:5173/translate` and start translating!
 
 ##  Project Structure
 
-```
+
 bridge-hands-main/
 ├── src/
 │   ├── components/
@@ -127,7 +127,7 @@ bridge-hands-main/
 ├── public/                        # Static assets
 ├── docs/                          # Documentation
 └── package.json                   # Dependencies
-```
+
 
 ##  Supported Gestures
 
