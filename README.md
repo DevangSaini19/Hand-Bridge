@@ -166,19 +166,6 @@ bridge-hands-main/
 - ✋ Stop / Wait
 - 👉 Point / Indicate
 
-### Supported Languages (11 Total!)
--  English
--  Hindi (हिंदी)
--  Bengali (বাংলা)
--  Tamil (தமிழ்)
--  Telugu (తెలుగు)
--  Marathi (मराठी)
--  Kannada (ಕನ್ನಡ)
--  Gujarati (ગુજરાતી)
--  Malayalam (മലയാളം)
--  Punjabi (ਪੰਜਾਬੀ)
--  Urdu (اردو)
-
 **Total**: 60+ gestures recognized! 🚀
 
 ## 🔧 Development
