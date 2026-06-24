@@ -234,7 +234,7 @@ vercel
 ```bash
 npm i -g netlify-cli
 netlify deploy --prod
-```
+
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 
